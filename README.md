@@ -1,1 +1,2 @@
-# Git-Github
+# Git-github
+This is for tutorial purpose.
